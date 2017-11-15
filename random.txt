@@ -1,2 +1,1 @@
-node_modules
-.DS_Store
+spotify-this-song,"I Want it That Way"
